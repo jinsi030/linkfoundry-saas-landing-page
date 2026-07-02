@@ -137,7 +137,7 @@ Home
 
 ## Prototype
 
-🔗 https://www.figma.com/design/yBowYwgbEGXrivnaTSMS2Z/delivery-application?node-id=0-1
+🔗 [View Figma Prototype](https://www.figma.com/design/yBowYwgbEGXrivnaTSMS2Z/delivery-application?node-id=0-1)
 
 ---
 
