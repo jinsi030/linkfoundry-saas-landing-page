@@ -1,6 +1,3 @@
-# linkfoundry-saas-landing-page
-A user-centered e-commerce interface focused on intuitive navigation, seamless shopping flows, and functional prototyping.
-
 # LinkFoundry — SaaS Marketing Landing Page
 
 ## Overview
